@@ -11,7 +11,7 @@ Welcome to Delves, a hopefully cozy cave system of my random thoughts, junk, cre
 
 please look around
 
-## Reading Log [open](bookbug/index.html)
+## Reading Log (Bookbug) [open](bookbug/index.html)
 
 - **placeholder** - by placerholder
 
