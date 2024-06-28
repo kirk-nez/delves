@@ -13,7 +13,7 @@ please look around
 
 ## Reading Log (Bookbug) [open](bookbug/index.html)
 
-- **placeholder** - by placerholder
+- **To the Lighthouse** - by Virginia Woolf
 
 ## Blogposts
 
