@@ -54,51 +54,6 @@ nav ul li a:hover {
     color: #b0a160;
 }
 
-section {
-    padding: 20px;
-    margin-top: 20px;
-    border: 1px solid #3a3a3a;
-    background-color: #3b3b3b;
-    border-radius: 8px;
-}
-
-section h2 {
-    color: #c9c9c9;
-    border-bottom: 2px solid #b0a160;
-    padding-bottom: 5px;
-}
-
-section p, section ul {
-    margin: 15px 0;
-    color: #e0e0e0;
-}
-
-article {
-    margin-top: 15px;
-    padding: 10px;
-    border: 1px solid #4a4a4a;
-    background-color: #4b4b4b;
-    border-radius: 5px;
-}
-
-article h3 {
-    color: #c9c9c9;
-    font-size: 1.4em;
-}
-
-article p {
-    color: #e0e0e0;
-}
-
-article a {
-    color: #d4af37;
-    text-decoration: none;
-}
-
-article a:hover {
-    color: #b0a160;
-}
-
 footer {
     text-align:inherit;
     padding: 10px 0;

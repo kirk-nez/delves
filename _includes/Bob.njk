@@ -1,0 +1,16 @@
+---
+layout: stage1.njk
+---
+{% set previousPost = collections.posts | getNextCollectionItem %}
+{% set nextPost = collections.posts | getPreviousCollectionItem %}
+
+<h2>{{title}}</h2>
+<p>{{date | formatDate }}</p>
+<hr>
+{{content | safe}}
+
+<div>
+{% if previousPost %}<span><a href="{{ previousPost.url }}">&lt;- previous post</a></span>{% endif %}
+<span><a href="/blog/">blog index</a></span>
+{% if nextPost %}<a href="{{ nextPost.url }}">next post -&gt;</a>{% endif %}
+</div>

@@ -1,7 +1,16 @@
 ---
 layout: stage1.njk
 ---  
-<link rel="stylesheet" href="styles.css">
+
+    *1<a href="/Blog/index.html">Blog</a>
+
+    *2<a href="/bookbug/index.html">Bookbug</a>
+
+    *3<a href="">Image locker</a>
+    
+    *3<a href="">Character memorials</a>
+
+
 <div class="container">
 Welcome to the delve's cavern
 
@@ -12,6 +21,7 @@ Welcome to Delves, a hopefully cozy cave system of my random thoughts, junk, cre
 please look around
 
 ## Reading Log (Bookbug) [open](bookbug/index.html)
+
 
 - **To the Lighthouse** - by Virginia Woolf
 

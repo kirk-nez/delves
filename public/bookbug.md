@@ -1,7 +1,6 @@
 ---
 layout: stage1.njk
---- 
-<link rel="stylesheet" href="../styles.css">
+---  
 
 # Bookbug
 
