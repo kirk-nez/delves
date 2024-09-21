@@ -21,7 +21,7 @@ please look around
 Hi this exists now
 [Read more](Blog/index.html)
 
-[Testing](Charactershrines/index.html)
+[Characters I will obsess for](Charactershrines/index.html)
 </div>
 ---
 

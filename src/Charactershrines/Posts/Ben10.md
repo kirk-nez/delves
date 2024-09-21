@@ -6,18 +6,18 @@ layout: stage1.njk
 <img src="imgdep/Mostnormalben10fan.png" alt="isolated" width="200"/>
 
 ### Art
-lmao as if
+Stuff will go here one day
 
 ### Ficlets
 
-ben night walking
-
-Ben & gwen hiking
+Ben night walking
 
 Ben college day one
 
-perfomance anxiety
+Criminal AU of Ben? maybe some kevin splashed in there too?
 
 ### random thought bin
 
 uguygyjgvjygiyj
+
+[back](Charactershrines/index.md)

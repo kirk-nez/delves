@@ -11,3 +11,5 @@ layout: stage1.njk
 *[Sam Vimes](Posts/Sam/index.html)*
 
 *[Maps Mizoguchi](Posts/Maps/index.html)*
+
+[back](index.md)
