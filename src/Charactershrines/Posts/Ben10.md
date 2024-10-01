@@ -20,4 +20,6 @@ Criminal AU of Ben? maybe some kevin splashed in there too?
 
 uguygyjgvjygiyj
 
-[back](Charactershrines/index.md)
+a button?
+
+[back](.../src/Charactershrines/index.html)
