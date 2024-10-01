@@ -22,4 +22,4 @@ uguygyjgvjygiyj
 
 a button?
 
-[back](.../src/Charactershrines/index.html)
+[home](/../index.html)

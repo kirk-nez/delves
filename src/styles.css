@@ -1,5 +1,8 @@
 body {
-    background-color: #0a0a0a;
+    background-image: url(/images/backgroundv2.png);
+    background-position: center;
+    background-size:45%;
+    background-repeat:repeat;
     color: #f0f0f0;
     font-family: 'Verdana', sans-serif;
     margin: 20%;
@@ -63,4 +66,9 @@ footer {
 
 footer p {
     color: #c9c9c9;
+}
+
+a {
+    text-decoration: double;
+    color: #9ba1a4;
 }

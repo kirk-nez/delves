@@ -12,4 +12,4 @@ layout: stage1.njk
 
 *[Maps Mizoguchi](Posts/Maps/index.html)*
 
-[back](.../index.html)
+[back](/../index.html)
