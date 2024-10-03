@@ -2,6 +2,12 @@
 layout: stage1.njk
 ---  
 
+<div class="ore-container">
+  <button class="ore-pile">
+    <img src="../images/ore.png">
+  </button>
+</div>
+
 <div class="container">
 Welcome to the delve's cavern
 
@@ -13,8 +19,8 @@ please look around
 
 ## Reading Log (Bookbug) [open](bookbug/index.html)
 
-
-- **To the Lighthouse** - by Virginia Woolf
+latest read:
+- **Pnin** - by Vladimir Nabokov
 
 ## Blogposts
 
@@ -23,7 +29,8 @@ Hi this exists now
 
 [Characters I will obsess for](Charactershrines/index.html)
 </div>
+
 ---
 
-&copy; 2024 Delves
+<div class="trademark"> &copy; 2024 Delves </div>
 

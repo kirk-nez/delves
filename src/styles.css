@@ -1,8 +1,8 @@
 body {
     background-image: url(/images/backgroundv2.png);
     background-position: center;
-    background-size:45%;
-    background-repeat:repeat;
+    background-size: 45%;
+    background-repeat: repeat;
     color: #f0f0f0;
     font-family: 'Verdana', sans-serif;
     margin: 20%;
@@ -15,8 +15,10 @@ body {
     width: 80%;
     margin: 0 auto;
     border: 3px solid #b0a160;
-    padding: 10px;
+    padding: 0px;
+    margin-top: 0px;
     background-color: #1f1f1f;
+    margin-bottom: 15%;
 }
 
 header {
@@ -58,7 +60,7 @@ nav ul li a:hover {
 }
 
 footer {
-    text-align:inherit;
+    text-align: inherit;
     padding: 10px 0;
     margin-top: 20px;
     border-top: 2px solid #b0a160;
@@ -71,4 +73,37 @@ footer p {
 a {
     text-decoration: double;
     color: #9ba1a4;
+}
+
+.ore-container {
+    margin-left: 83%;
+    right: 0;
+    display: block;
+    width: 80%;
+    text-align:center;
+    margin: none;
+}
+
+.ore-pile {
+    margin-bottom: 0;
+    margin: none;
+    display: block;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.ore-pile img {
+    margin-bottom: 0px;
+    display: block;
+    padding-bottom: 0;
+}
+
+.trademark {
+    text-align: center;
+}
+
+table,
+td {
+    border: 2px solid rgb(242, 144, 144);
 }
