@@ -21,4 +21,7 @@ So i had to get my computer repaired, and then they didn't repair, so i just got
 ANYWAYS BOOK
 it kept the feeling of my grandpa the entire way through, honestly very charming. It was a good read, the ending was depressing but thats kinda just life. Pnin deserved better. I will return later to actually write this. i've got essays due
 
-[Back to main page](../index.html)
+**•<u>A Pale View of Hills|October</u>**
+spooky title for the spooky month. I'm actually reading another book set in japan written around the same time right now so thats a funny coincidence.
+
+About 2 chapters in so far, reading the adults interact, its painful. Not that its bad writing, entirely accurate to how some people are, those people just aren't really likeable

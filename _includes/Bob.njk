@@ -5,6 +5,7 @@ layout: stage1.njk
 {% set nextPost = collections.posts | getPreviousCollectionItem %}
 
 <h2>{{title}}</h2>
+
 <p>{{date | formatDate }}</p>
 <hr>
 {{content | safe}}

@@ -14,3 +14,5 @@ First, a rating system of fluency. I'll be using CEFR (common european frame of 
 |B1-B2 (intermediate) |you know some shit|
 | C1-C2 (advanced)    |you know your shit|
 
+tbc
+

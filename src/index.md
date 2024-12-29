@@ -3,31 +3,48 @@ layout: stage1.njk
 ---  
 
 <div class="ore-container">
-  <button class="ore-pile">
-    <img src="../images/ore.png">
+  <button class="ore-pile" id="click-counter">
+    <img src="../images/ore.png" alt="Ore Pile">
+    <p id="click-count">0</p>
   </button>
 </div>
 
 <div class="container">
-Welcome to the delve's cavern
+
+  <div class="stone-clock">
+        <div id="time" class="clock-face"></div>
+  </div>
+    <script src="script.js"></script>
+
+  <div class="about-container">
+<button id="welcome"> Welcome to the delve's cavern </button>
+
 
 ## About
 
-Welcome to Delves, a hopefully cozy cave system of my random thoughts, junk, creations, and more junk
+<p id="welcome-p">Welcome to Delves, a hopefully cozy cave system of my random thoughts, junk, creations, and more junk
 
-please look around
+please look around</p>
+  </div>
+
+---
+<div class="headings">
 
 ## Reading Log (Bookbug) [open](bookbug/index.html)
 
-latest read:
-- **Pnin** - by Vladimir Nabokov
+Current reading:
+- **A Pale View of Hills** - by Kazuo Ishiguro
 
 ## Blogposts
 
 Hi this exists now
 [Read more](Blog/index.html)
 
+## My loves
+
 [Characters I will obsess for](Charactershrines/index.html)
+</div>
+
 </div>
 
 ---

@@ -21,5 +21,3 @@ Criminal AU of Ben? maybe some kevin splashed in there too?
 uguygyjgvjygiyj
 
 a button?
-
-[home](/../index.html)
