@@ -25,3 +25,8 @@ it kept the feeling of my grandpa the entire way through, honestly very charming
 spooky title for the spooky month. I'm actually reading another book set in japan written around the same time right now so thats a funny coincidence.
 
 About 2 chapters in so far, reading the adults interact, its painful. Not that its bad writing, entirely accurate to how some people are, those people just aren't really likeable
+
+DNF :(
+
+**•<u>A Pale View of Hills|October</u>**
+I swear i'll read this one... it looks really cool just off the summary. Ehhh i've got a feeling the writing will feel dry but i mean might as well give it a shot
