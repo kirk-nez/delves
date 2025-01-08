@@ -33,7 +33,7 @@ please look around</p>
 ## Reading Log (Bookbug) [open](bookbug/index.html)
 
 Current reading:
-- **A Pale View of Hills** - by Kazuo Ishiguro
+- **Invisible Cities** - by Italo Calvino
 
 ## Blogposts
 

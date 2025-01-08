@@ -28,5 +28,5 @@ About 2 chapters in so far, reading the adults interact, its painful. Not that i
 
 DNF :(
 
-**•<u>A Pale View of Hills|October</u>**
+**•<u>Invisible Cities|January '25</u>**
 I swear i'll read this one... it looks really cool just off the summary. Ehhh i've got a feeling the writing will feel dry but i mean might as well give it a shot
