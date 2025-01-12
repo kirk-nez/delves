@@ -48,30 +48,6 @@ header h1 {
     align-items: center;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    text-align: center;
-    margin: 0;
-    background-color: #2a2a2a;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #d4af37;
-    font-weight: bold;
-    font-size: 1.2em;
-}
-
-nav ul li a:hover {
-    color: #b0a160;
-}
-
 footer {
     text-align: inherit;
     padding: 10px 0;
@@ -128,8 +104,7 @@ td {
 }
 
 * {
-    box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
 }
 
 #home {
@@ -289,4 +264,18 @@ dnd page
   h1 {
     font-family:cursive;
     color: #563263;
+  }
+  .book-post {
+    background: #1b1b1b;
+    border: #da9ea0 solid 5px;
+    border-radius: 5px;
+    padding: 2.5%;
+    margin: 1%;
+  }
+
+  progress {
+    border-radius: 1px;
+    background-color: #9580a2;
+    color: #563263;
+    border: none;
   }
