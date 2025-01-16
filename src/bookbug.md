@@ -8,20 +8,15 @@ layout: stage1.njk
 •<b><u>Invisible Cities|January '25</u></b>
 
 <label>Reading:<label>
-<progress max="100" value="5"> 5%</progress>
+<p>[░░░░░░░░░░░░░░░░░░░░] 0%</p>
 
-<script src="/progress.js"></script>
-
-<div>
-    <p>[<span id="progress-bar"></span>]</p>
-</div>
 
 I swear i'll read this one... it looks really cool just off the summary. Ehhh i've got a feeling the writing will feel dry but i mean might as well give it a shot
 </div>
 
 <div class="book-post">
 •<b><u>A Pale View of Hills|October</u></b>
-
+<p>[▓▓▓▓░░░░░░░░░░░░░░░░] 18%</p>
 spooky title for the spooky month. I'm actually reading another book set in japan written around the same time right now so thats a funny coincidence.
 
 About 2 chapters in so far, reading the adults interact, its painful. Not that its bad writing, entirely accurate to how some people are, those people just aren't really likeable
@@ -31,6 +26,7 @@ DNF :(
 
 <div class="book-post">
 •<b><u>Pnin|August</u></b>
+<p>[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%</p>
 
 This book i'm looking forward to, I heard its a comedy, and read the first few pages. It reads like my grandpa telling a long winded story, which is surprisingly not a turn-off for Pnin. I think i'll finish it, no promises though.
 
@@ -43,6 +39,7 @@ it kept the feeling of my grandpa the entire way through, honestly very charming
 
 <div class="book-post">
 •<b><u>To the Lighthouse|July</u></b>
+<p>[▓▓▓░░░░░░░░░░░░░░░░░] 13%</p>
 
 Haven't read it before, hadn't heard of it before, but i hope it's a good read
 

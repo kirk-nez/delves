@@ -40,6 +40,9 @@ Current reading:
 Hi this exists now
 [Read more](Blog/index.html)
 
+## DND [open](DND/index/index.html)
+I do nerd stuff, this existing was a matter of time
+
 ## My loves
 
 [Characters I will obsess for](Charactershrines/index.html)

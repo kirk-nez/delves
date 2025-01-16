@@ -216,6 +216,7 @@ dnd page
     width: auto;
     background-color: #563263;
     border-radius: 2px;
+    padding-bottom: 5%;
 }
 
   .char-details {
@@ -278,4 +279,63 @@ dnd page
     background-color: #9580a2;
     color: #563263;
     border: none;
+  }
+
+  .note-details {
+    display: none;
+    flex-direction: row;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+  }
+
+  .NPCs, .Encounters, .generalNotes {
+    border: #000000 solid;
+    margin: 5px;
+    border-radius: 2px;
+    padding: 10px;
+    padding-top: 0px;
+    display: inline;
+    flex: 2 1 auto;
+    background-color: #49101085;
+  }
+
+  .NPCs ul, .Encounters ul, .generalNotes ul {
+    margin: 0px 0px 0px 10px;
+    padding: 0 2px;
+    list-style: square;
+    color: #d89a9a;
+  }
+
+
+  h3 {
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0%;
+  }
+
+  .session-header {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+    color: #fefefe;
+    margin-left: 7%;
+    cursor: pointer;
+    text-decoration: underline;
+    transition: transform 0.2s ease
+  }
+  
+  .session-header:hover {
+    text-decoration: dotted 2px black;
+    transform: scale(1.02);
+  }
+
+  .summary {
+    margin-left: 7%;
+    margin-right: 28%;
+    font: italic lighter 0.8em;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 0.9em;
+    color: #bdbdbd;
   }
