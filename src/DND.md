@@ -45,7 +45,7 @@ layout: stage1.njk
   <h2>Notes</h2>
   
   <div class="notesContainer" id="session1">
-    <div class="session-header" onclick="toggleNotes('session1')">Session 1</div>
+    <div class="session-header" onclick="toggleNotes('session1')">Session 1 & 2</div>
     <p class="summary">In which the characters met, killed some rats, and promptly went to bed (also measurements)</p>
     <div class="note-details">
       <div class="NPCs">
@@ -73,8 +73,8 @@ layout: stage1.njk
     </div>
   </div>
   
-  <div class="notesContainer" id="session2">
-    <div class="session-header" onclick="toggleNotes('session2')">Session 2</div>
+  <div class="notesContainer" id="session3">
+    <div class="session-header" onclick="toggleNotes('session3')">Session 3</div>
     <p class="summary">In which we missed 4 weeks and forgot what was happening, heathe became a chainsmoker, and the tumbleweeds remain at large</p>
     <div class="note-details">
       <div class="NPCs">
@@ -100,6 +100,35 @@ layout: stage1.njk
       </div>
     </div>
   </div>
+
+  <div class="notesContainer" id="session4">
+    <div class="session-header" onclick="toggleNotes('session4')">Session 4</div>
+    <p class="summary">In which it hasn't happened yet</p>
+    <div class="note-details">
+      <div class="NPCs">
+        <h3>NPCs</h3>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      <div class="Encounters">
+        <h3>Encounters</h3>
+        <ul>
+          <li></li>
+        </ul>
+      </div>
+      <div class="generalNotes">
+        <h3>Misc</h3>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 
