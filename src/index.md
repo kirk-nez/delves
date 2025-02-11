@@ -50,7 +50,7 @@ I do nerd stuff, this existing was a matter of time
 [Characters I will obsess for](Charactershrines/index.html)
 </div>
 
-<a href="Guestbook/index.html">⋆ Guestbook ⋆</a>
+<a id="guestbooklink" href="Guestbook/index.html">⋆ Guestbook ⋆</a>
 
 </div>
 

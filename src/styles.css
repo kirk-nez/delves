@@ -350,8 +350,13 @@ dnd page
 #guestbook {
   display:block;
   margin: 5% 10% 10% 10%;
-  border: none;
+  border: solid 5px brown;
   width: 550px;
   height: 600px;
+}
+
+#guestbooklink {
+  margin: 0 3% 0 40%;
+  color: #f4e781;
 }
   
