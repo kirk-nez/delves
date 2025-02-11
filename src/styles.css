@@ -25,7 +25,7 @@ body {
     padding: 0px;
     margin-top: 0px;
     background-color: #1f1f1f;
-    margin-bottom: 15%;
+    margin-bottom: 2%;
 }
 
 #title {
@@ -339,3 +339,11 @@ dnd page
     font-size: 0.9em;
     color: #bdbdbd;
   }
+
+  #fanlistings {
+ margin: 0% 0% 10% 40%;
+  }
+  #fanlistings a {
+  margin: 0% 0% 0% 7%;
+  }
+  

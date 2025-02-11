@@ -49,7 +49,10 @@ I do nerd stuff, this existing was a matter of time
 </div>
 
 </div>
-
+<div id="fanlistings">
+<h2>Fanlistings!</h2>
+<a href="https://moondvsted.space/fan/drones/"><img src="murderdronesfanlisting.png"></a>
+</div>
 ---
 
 <div class="trademark"> &copy; 2024 Delves </div>
