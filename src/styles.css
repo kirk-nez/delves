@@ -346,4 +346,12 @@ dnd page
   #fanlistings a {
   margin: 0% 0% 0% 7%;
   }
+
+#guestbook {
+  display:block;
+  margin: 5% 10% 10% 10%;
+  border: none;
+  width: 550px;
+  height: 600px;
+}
   

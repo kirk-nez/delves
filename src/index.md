@@ -9,6 +9,8 @@ layout: stage1.njk
   </button>
 </div>
 
+
+
 <div class="container">
 
   <div class="stone-clock">
@@ -48,7 +50,11 @@ I do nerd stuff, this existing was a matter of time
 [Characters I will obsess for](Charactershrines/index.html)
 </div>
 
+<a href="Guestbook/index.html">⋆ Guestbook ⋆</a>
+
 </div>
+
+
 <div id="fanlistings">
 <h2>Fanlistings!</h2>
 <a href="https://moondvsted.space/fan/drones/"><img src="murderdronesfanlisting.png"></a>
