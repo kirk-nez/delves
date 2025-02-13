@@ -1,6 +1,6 @@
 ---
 title: "Doki Doki"
-date: 2024-06-28
+date: 2025-02-10
 --- 
 So this is something different, keeping my writing here till i finish up a writing page
 
